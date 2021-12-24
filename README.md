@@ -14,29 +14,7 @@ Automated grading of homework assignments and tests
 - commit with proper message
 - just push and check answer
 # Problems
-## Get length #1
-
-  A integer is given. Find the number of digits in it.
-
-**Example 1:**
-
-```Python
-Input: num=5
-Output: 1
-
-```
-
-**Example 2:**
-
-```Python
-Input: num=87
-Output: 2
-
-```
-**Constraints:**
-- 0<=num<=10<sup>5</sup>
-
-## Sum of digits #2
+## Sum of digits #1
 
 A integer is given. Find the sum of digits in it.
 
@@ -66,6 +44,30 @@ Output: 2
 
 **Constraints:**
 - 0<=num<=10<sup>5</sup>
+
+## Get length #2
+
+  A integer is given. Find the number of digits in it.
+
+**Example 1:**
+
+```Python
+Input: num=5
+Output: 1
+
+```
+
+**Example 2:**
+
+```Python
+Input: num=87
+Output: 2
+
+```
+**Constraints:**
+- 0<=num<=10<sup>5</sup>
+
+
 
 # Warning
 - don't copy other solutions or any solution
